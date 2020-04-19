@@ -1,7 +1,3 @@
-
-
-# Project Title
-
 # node-typescript-concepts
 
 ## Getting Started
@@ -19,9 +15,10 @@ YARN or NPM
 
 ### Installing
 
+```
 1st yarn or npm install
 2st node src/indes.js
-
+```
 
 ## Built With
 
